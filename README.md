@@ -2,6 +2,12 @@
 
 An AI-powered multi-chain DEX built on Taiko L2 and Arbitrum, featuring advanced trading, staking, token launches, and real-time AI analytics.
 
+| | Link |
+|---|---|
+| **App** | https://qsndex.xyz |
+| **Documentation** | https://docs.qsndex.xyz |
+| **API (Swagger)** | https://api.qsndex.xyz/swagger-ui/ |
+
 ## Features
 
 ### Trading
