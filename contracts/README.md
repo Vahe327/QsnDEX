@@ -153,6 +153,22 @@ forge test
 forge test -vvv
 ```
 
+## Deployed Contracts (Taiko Mainnet)
+
+| Contract | Address |
+|----------|---------|
+| WETH9 | `0x19CB0Dd7926fb78Dd96416F50DA8976E51f48EF3` |
+| Factory | `0x6c14fC67C31F123F89C8Ce1FB024cCE0EDac3996` |
+| Router | `0x08f10f37CE99adEb0e866245068100B86c780f4a` |
+| FeeCollector | `0xf668db989357c6F936372D137f783eAbdBB0f571` |
+| Multicall | `0x6Ea5d4d752D9acB3feB7ccE885ae489a09b078a3` |
+| LimitOrder | `0x43204f1C7426F20BA0A8Dde778f7b2A3dAF27E91` |
+| StakingFactory | `0x35de353a8855781F47082B43E59159555Db4E3F5` |
+| BatchSwap | `0x28009E27a6FB5D52861259F2D2BED39c8209B9b6` |
+| Launchpad | `0x040ac63DF7C3af4911AfF97959DdC1C63b2Eb758` |
+
+**PAIR_CODE_HASH:** `0xb48dd4af2585e7b3586ca87d86790d0d04f4c105430056d2b91540b80028f37b`
+
 ## Deployment
 
 ```bash
