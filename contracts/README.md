@@ -169,6 +169,20 @@ forge test -vvv
 
 **PAIR_CODE_HASH:** `0xb48dd4af2585e7b3586ca87d86790d0d04f4c105430056d2b91540b80028f37b`
 
+## Deployed Contracts (Arbitrum One)
+
+| Contract | Address |
+|----------|---------|
+| WETH9 | `0x4Ac96E70796558988711aC7b3a210739AEaBC87A` |
+| Factory | `0xD9985210F44c42aF74f1Fc1f03BbF6210E94DbC5` |
+| Router | `0x204d562C5a6e9e75257f01cd7e313F597349e684` |
+| FeeCollector | `0x70fB259bedbd7B0A485866a0c511BE72cea3f8B3` |
+| Multicall | `0xb2D7c309C3e05Fd06CFF9061dEaAE1486f052AD9` |
+| LimitOrder | `0x7C070221072a3be9D2CFC8d03f89e68FAcB8280b` |
+| StakingFactory | `0x19CB0Dd7926fb78Dd96416F50DA8976E51f48EF3` |
+| BatchSwap | `0x6c14fC67C31F123F89C8Ce1FB024cCE0EDac3996` |
+| Launchpad | `0x08f10f37CE99adEb0e866245068100B86c780f4a` |
+
 ## Deployment
 
 ```bash
